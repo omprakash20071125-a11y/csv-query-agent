@@ -1,20 +1,7 @@
-# Core LangGraph + LangChain
 langgraph==1.2.4
 langchain-groq==1.1.2
 langchain-core==1.4.1
-langchain-community==0.4.2
-
-# Data
 pandas==3.0.2
-
-# Validation
 pydantic==2.13.4
-
-# Frontend
 streamlit==1.58.0
-
-# Environment variables
 python-dotenv==1.2.2
-
-# SQLite is built into Python — no install needed
-# sqlite3 is part of Python standard library
